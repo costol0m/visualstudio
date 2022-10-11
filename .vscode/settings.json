@@ -1,7 +1,0 @@
-{
-    "go.alternateTools": {
-    "dlv": "dlv"
-    },
-    "merge-conflict.autoNavigateNextConflict.enabled": true,
-    "vscode-edge-devtools.showWorkers": false
-}
